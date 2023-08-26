@@ -1,4 +1,8 @@
 # Exam.MCQ
+An innovative online MCQ (Multiple Choice Question) exam platform.
+The platform's main objective is to enable teachers to create MCQ-based exams,
+while providing users with the opportunity to participate in these online exams in real-time.
+
 # Features and Functionalities
 1. Exam Creation: Teachers should have the ability to create exams with
 multiple-choice questions, set the time duration for the exam, and
