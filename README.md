@@ -2,15 +2,15 @@
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/bhaveshjain144/mcqexam/blob/main/static/screenshots/homepage.png)
+![homepage](https://github.com/bhaveshjain144/mcqexam/blob/main/static/screenshots/homepage.png)
 ### Admin Dashboard
-![dashboard snap](https://github.com/bhaveshjain144/mcqexam/blob/main/static/screenshots/admin/admin_dashboard_page.png)
+![dashboard](https://github.com/bhaveshjain144/mcqexam/blob/main/static/screenshots/admin/admin_dashboard_page.png)
 ### Exam Rules
-![invoice snap](https://github.com/bhaveshjain144/mcqexam/blob/main/static/screenshots/student/student_exam_rules_page.png)
+![exam rules](https://github.com/bhaveshjain144/mcqexam/blob/main/static/screenshots/student/student_exam_rules_page.png)
 ### Exam
-![doctor snap](https://github.com/bhaveshjain144/mcqexam/blob/main/static/screenshots/student/student_take_exam_page.png)
+![exam](https://github.com/bhaveshjain144/mcqexam/blob/main/static/screenshots/student/student_take_exam_page.png)
 ### Teacher
-![doctor snap](https://github.com/bhaveshjain144/mcqexam/blob/main/static/screenshots/teacher/teacher_question_page.png)
+![teacher](https://github.com/bhaveshjain144/mcqexam/blob/main/static/screenshots/teacher/teacher_question_page.png)
 ---
 ## Functions
 ### Admin
