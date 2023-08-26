@@ -1,4 +1,27 @@
 # Exam.MCQ
+# Features and Functionalities
+1. Exam Creation: Teachers should have the ability to create exams with
+multiple-choice questions, set the time duration for the exam, and
+define the number of questions.
+
+2. Real-time MCQs: Users should be able to answer the multiple-choice
+questions in real-time during the exam.
+
+3. Solo or Group Participation: Users should have the option to take
+exams individually or in groups.
+
+4. Competitive Environment: In group exams, participants should be able
+to view each other's progress and scores in real-time, encouraging
+healthy competition.
+
+5. Instant Results: Users should receive their exam results immediately
+after completing the exam.
+
+6. Secure and Reliable: The platform should be secure, reliable, and
+able to handle multiple users simultaneously.
+
+7. User-friendly Interface: The platform should have an intuitive and
+user-friendly interface for both teachers and users.
 ---
 ## screenshots
 ### Homepage
